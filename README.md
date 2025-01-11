@@ -126,8 +126,7 @@ Evaluate model performance using:
 - Mean Squared Error (MSE)
 - R-squared (\( R^2 \))
 
-## Acknowledgments
-This project was created to understand the application of linear regression for economic data prediction. Special thanks to the authors of the dataset and the Python open-source community.
+
 
 ## Future Enhancements
 - Include additional features to improve prediction accuracy.
